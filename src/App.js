@@ -9,7 +9,10 @@ export default function App() {
         <Weather />
         <footer>
           This project was coded by Celeste Martins and{" "}
-          <a href="https://github.com/celeste-martins/react-weather-app">
+          <a
+            href="https://github.com/celeste-martins/react-weather-app"
+            target="_blank"
+          >
             open-sourced on GitHub
           </a>
         </footer>
